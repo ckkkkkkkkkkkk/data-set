@@ -1,0 +1,160 @@
+ant , 1.5  number of Buggy: 32
+ant , 1.5 number of True: 260
+ant , 1.5  Buggy Rate: 0.1095890410958904
+
+
+ant , 1.6  number of Buggy: 92
+ant , 1.6 number of True: 257
+ant , 1.6  Buggy Rate: 0.2636103151862464
+
+
+ant , 1.7  number of Buggy: 166
+ant , 1.7 number of True: 575
+ant , 1.7  Buggy Rate: 0.22402159244264508
+
+
+camel , 1.0  number of Buggy: 13
+camel , 1.0 number of True: 326
+camel , 1.0  Buggy Rate: 0.038348082595870206
+
+
+camel , 1.2  number of Buggy: 216
+camel , 1.2 number of True: 379
+camel , 1.2  Buggy Rate: 0.3630252100840336
+
+
+camel , 1.4  number of Buggy: 145
+camel , 1.4 number of True: 703
+camel , 1.4  Buggy Rate: 0.17099056603773585
+
+
+camel , 1.6  number of Buggy: 188
+camel , 1.6 number of True: 747
+camel , 1.6  Buggy Rate: 0.20106951871657755
+
+
+jedit , 3.2  number of Buggy: 90
+jedit , 3.2 number of True: 170
+jedit , 3.2  Buggy Rate: 0.34615384615384615
+
+
+jedit , 4.0  number of Buggy: 75
+jedit , 4.0 number of True: 218
+jedit , 4.0  Buggy Rate: 0.25597269624573377
+
+
+jedit , 4.1  number of Buggy: 79
+jedit , 4.1 number of True: 221
+jedit , 4.1  Buggy Rate: 0.2633333333333333
+
+
+log4j , 1.0  number of Buggy: 34
+log4j , 1.0 number of True: 85
+log4j , 1.0  Buggy Rate: 0.2857142857142857
+
+
+log4j , 1.1  number of Buggy: 37
+log4j , 1.1 number of True: 67
+log4j , 1.1  Buggy Rate: 0.3557692307692308
+
+
+log4j , 1.2  number of Buggy: 186
+log4j , 1.2 number of True: 8
+log4j , 1.2  Buggy Rate: 0.9587628865979382
+
+
+lucene , 2.0  number of Buggy: 91
+lucene , 2.0 number of True: 95
+lucene , 2.0  Buggy Rate: 0.489247311827957
+
+
+lucene , 2.2  number of Buggy: 143
+lucene , 2.2 number of True: 91
+lucene , 2.2  Buggy Rate: 0.6111111111111112
+
+
+lucene , 2.4  number of Buggy: 203
+lucene , 2.4 number of True: 127
+lucene , 2.4  Buggy Rate: 0.6151515151515151
+
+
+poi , 1.5  number of Buggy: 141
+poi , 1.5 number of True: 93
+poi , 1.5  Buggy Rate: 0.6025641025641025
+
+
+poi , 2.0  number of Buggy: 37
+poi , 2.0 number of True: 271
+poi , 2.0  Buggy Rate: 0.12012987012987013
+
+
+poi , 2.5  number of Buggy: 248
+poi , 2.5 number of True: 131
+poi , 2.5  Buggy Rate: 0.6543535620052771
+
+
+poi , 3.0  number of Buggy: 280
+poi , 3.0 number of True: 157
+poi , 3.0  Buggy Rate: 0.6407322654462243
+
+
+synapse , 1.0  number of Buggy: 16
+synapse , 1.0 number of True: 141
+synapse , 1.0  Buggy Rate: 0.10191082802547771
+
+
+synapse , 1.1  number of Buggy: 60
+synapse , 1.1 number of True: 162
+synapse , 1.1  Buggy Rate: 0.2702702702702703
+
+
+synapse , 1.2  number of Buggy: 86
+synapse , 1.2 number of True: 170
+synapse , 1.2  Buggy Rate: 0.3359375
+
+
+velocity , 1.4  number of Buggy: 147
+velocity , 1.4 number of True: 48
+velocity , 1.4  Buggy Rate: 0.7538461538461538
+
+
+velocity , 1.5  number of Buggy: 142
+velocity , 1.5 number of True: 72
+velocity , 1.5  Buggy Rate: 0.6635514018691588
+
+
+velocity , 1.6  number of Buggy: 78
+velocity , 1.6 number of True: 151
+velocity , 1.6  Buggy Rate: 0.3406113537117904
+
+
+xalan , 2.4  number of Buggy: 110
+xalan , 2.4 number of True: 564
+xalan , 2.4  Buggy Rate: 0.1632047477744807
+
+
+xalan , 2.5  number of Buggy: 386
+xalan , 2.5 number of True: 373
+xalan , 2.5  Buggy Rate: 0.5085638998682477
+
+
+xalan , 2.6  number of Buggy: 408
+xalan , 2.6 number of True: 464
+xalan , 2.6  Buggy Rate: 0.46788990825688076
+
+
+xalan , 2.7  number of Buggy: 897
+xalan , 2.7 number of True: 1
+xalan , 2.7  Buggy Rate: 0.9988864142538976
+
+
+xerces , 1.2  number of Buggy: 71
+xerces , 1.2 number of True: 368
+xerces , 1.2  Buggy Rate: 0.16173120728929385
+
+
+xerces , 1.3  number of Buggy: 69
+xerces , 1.3 number of True: 383
+xerces , 1.3  Buggy Rate: 0.15265486725663716
+
+
